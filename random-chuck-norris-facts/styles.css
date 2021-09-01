@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+body {
+    width: 500px;
+    margin: 0 auto;
+    padding: 50px;
+}
+.heading ul li {
+    display: inline-block;
+    padding: 50px;
+}
