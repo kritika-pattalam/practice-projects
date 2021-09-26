@@ -1,0 +1,12 @@
+#color_display {
+    background-color: brown;
+    width: 100px;
+    height: 100px;
+    border-radius: 10%;
+    color: #fff;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
